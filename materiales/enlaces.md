@@ -14,3 +14,4 @@
 * [Iniciar Repositorio Git y hacer Commit](https://desarrolloweb.com/articulos/iniciar-repositorio-git-primer-commit.html)
 * [Crear repositorio en GitHub y subir el codigo](https://desarrolloweb.com/articulos/crear-repositorio-git-codigo.html)
 * [Introduccion al lenguaje MarkDown](https://programminghistorian.org/es/lecciones/introduccion-a-markdown)
+* [La mejor forma de nombrar tus archivos (Ingles)](https://github.com/bartvandebiezen/file-name-conventions)
