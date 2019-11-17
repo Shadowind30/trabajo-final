@@ -1,6 +1,7 @@
 # Enlaces de Interes
 
 ## Interes General
+* [Marco teorico](https://www.academia.edu/6718399/Tipos_de_marco_teorico)
 * [Vesionamiento Semantico](https://culturainformatica.co/que-es-versionamiento-semantico-aqui-te-lo-explicamos/)
 * [Arquitecturas de Software](https://www.ecured.cu/Arquitectura_de_software)
 
