@@ -1,4 +1,4 @@
-# ITSC Biblioteca Version 1.20.051219 # [!(https://img.shields.io/badge/Electiva-Trabajo%20Final-blue)]
+# ITSC Biblioteca Version 1.20.051219  [!(https://img.shields.io/badge/Electiva-Trabajo%20Final-blue)]
 Repositorio para el trabajo final de Electiva de Software, dicho trabajo consiste en una aplicacion movil para la biblioteca del ITSC orientada a resolver las limitaciones de la version web y ofrecer un acceso mas amigable para los estudiantes.
 
 ### Los documento .docx y .pdf en este repositorio cumplen con las siguientes [normas del estandar APA:](https://normasapa.com/)
