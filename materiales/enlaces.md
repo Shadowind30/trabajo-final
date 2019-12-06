@@ -5,6 +5,12 @@
 * [Vesionamiento Semantico](https://culturainformatica.co/que-es-versionamiento-semantico-aqui-te-lo-explicamos/)
 * [Arquitecturas de Software](https://www.ecured.cu/Arquitectura_de_software)
 
+## Ambiente Movil
+* [PLantilla de diseño de Android KitKat](https://ltheme.com/free-android-gui-wireframe-templates-2014/)
+* [Plantilla de interfaz IOS 10](https://freeui.design/ios-10-ui-kit-for-sketch-ps-figma-xd/)
+
+## Metologias de desarrollo
+* [DIagrama SCRUM](https://www.leadersummaries.com/ver-resumen/scrum)
 ## Patrones de diseño
 * [Patrones de diseño en la nube](https://docs.microsoft.com/es-es/azure/architecture/patterns/)
 * [Patrones de Desarrollo Comunes y ejemplos de uso](https://medium.com/@maniakhitoccori/los-10-patrones-comunes-de-arquitectura-de-software-d8b9047edf0b)
